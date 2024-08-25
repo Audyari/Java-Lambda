@@ -17,6 +17,8 @@ public class panggilLamda {
         System.out.println(testData.Usia());
         System.out.println(testData2.Usia());
 
+
+
     }
 
 }

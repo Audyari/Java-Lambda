@@ -19,6 +19,7 @@ public class ForEachApp {
             @Override
             public void accept(String value) {
                 System.out.println(value);
+
             }
         });
 
